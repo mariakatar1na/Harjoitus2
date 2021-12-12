@@ -1,0 +1,1 @@
+Tämä on versionhallinta harjoitus 2.
